@@ -3,68 +3,68 @@
   "features": [
     {
       "type": "Feature",
-      "properties": { "origem": "BAEPENDI", "destino": "CAXAMBU" },
-      "geometry": { "type": "LineString", "coordinates": [[-44.8908,-21.9581],[-44.9339,-21.9779]] }
+      "properties": {"origem":"BAEPENDI","destino":"CAXAMBU"},
+      "geometry":{"type":"LineString","coordinates":[[-44.890808,-21.958149],[-44.905000,-21.965000],[-44.920000,-21.970000],[-44.933980,-21.977899]]}
     },
     {
       "type": "Feature",
-      "properties": { "origem": "BAEPENDI", "destino": "CRUZILIA" },
-      "geometry": { "type": "LineString", "coordinates": [[-44.8908,-21.9581],[-44.8091,-21.8402]] }
+      "properties": {"origem":"BAEPENDI","destino":"CRUZILIA"},
+      "geometry":{"type":"LineString","coordinates":[[-44.890808,-21.958149],[-44.860000,-21.920000],[-44.830000,-21.880000],[-44.809131,-21.840247]]}
     },
     {
       "type": "Feature",
-      "properties": { "origem": "CAXAMBU", "destino": "SAO LOURENCO" },
-      "geometry": { "type": "LineString", "coordinates": [[-44.9339,-21.9779],[-45.0533,-22.1164]] }
+      "properties": {"origem":"CAXAMBU","destino":"SAO LOURENCO"},
+      "geometry":{"type":"LineString","coordinates":[[-44.933980,-21.977899],[-44.980000,-22.020000],[-45.020000,-22.060000],[-45.053350,-22.116496]]}
     },
     {
       "type": "Feature",
-      "properties": { "origem": "CAXAMBU", "destino": "SOLEDADE" },
-      "geometry": { "type": "LineString", "coordinates": [[-44.9339,-21.9779],[-45.0455,-22.0589]] }
+      "properties": {"origem":"CAXAMBU","destino":"SOLEDADE"},
+      "geometry":{"type":"LineString","coordinates":[[-44.933980,-21.977899],[-44.970000,-22.000000],[-45.010000,-22.030000],[-45.045552,-22.058912]]}
     },
     {
       "type": "Feature",
-      "properties": { "origem": "SOLEDADE", "destino": "SAO LOURENCO" },
-      "geometry": { "type": "LineString", "coordinates": [[-45.0455,-22.0589],[-45.0533,-22.1164]] }
+      "properties": {"origem":"SOLEDADE","destino":"SAO LOURENCO"},
+      "geometry":{"type":"LineString","coordinates":[[-45.045552,-22.058912],[-45.050000,-22.080000],[-45.052000,-22.100000],[-45.053350,-22.116496]]}
     },
     {
       "type": "Feature",
-      "properties": { "origem": "SAO LOURENCO", "destino": "ITANHANDU" },
-      "geometry": { "type": "LineString", "coordinates": [[-45.0533,-22.1164],[-44.9392,-22.2948]] }
+      "properties": {"origem":"SAO LOURENCO","destino":"ITANHANDU"},
+      "geometry":{"type":"LineString","coordinates":[[-45.053350,-22.116496],[-45.020000,-22.180000],[-44.980000,-22.240000],[-44.939214,-22.294846]]}
     },
     {
       "type": "Feature",
-      "properties": { "origem": "SAO LOURENCO", "destino": "POUSO ALTO" },
-      "geometry": { "type": "LineString", "coordinates": [[-45.0533,-22.1164],[-44.9732,-22.2078]] }
+      "properties": {"origem":"SAO LOURENCO","destino":"POUSO ALTO"},
+      "geometry":{"type":"LineString","coordinates":[[-45.053350,-22.116496],[-45.030000,-22.150000],[-45.000000,-22.180000],[-44.973226,-22.207884]]}
     },
     {
       "type": "Feature",
-      "properties": { "origem": "ITANHANDU", "destino": "POUSO ALTO" },
-      "geometry": { "type": "LineString", "coordinates": [[-44.9392,-22.2948],[-44.9732,-22.2078]] }
+      "properties": {"origem":"ITANHANDU","destino":"POUSO ALTO"},
+      "geometry":{"type":"LineString","coordinates":[[-44.939214,-22.294846],[-44.950000,-22.260000],[-44.960000,-22.230000],[-44.973226,-22.207884]]}
     },
     {
       "type": "Feature",
-      "properties": { "origem": "ITANHANDU", "destino": "PASSA QUATRO" },
-      "geometry": { "type": "LineString", "coordinates": [[-44.9392,-22.2948],[-44.9665,-22.3882]] }
+      "properties": {"origem":"ITANHANDU","destino":"PASSA QUATRO"},
+      "geometry":{"type":"LineString","coordinates":[[-44.939214,-22.294846],[-44.950000,-22.320000],[-44.960000,-22.350000],[-44.966513,-22.388209]]}
     },
     {
       "type": "Feature",
-      "properties": { "origem": "ITANHANDU", "destino": "ITAMONTE" },
-      "geometry": { "type": "LineString", "coordinates": [[-44.9392,-22.2948],[-44.8726,-22.2842]] }
+      "properties": {"origem":"ITANHANDU","destino":"ITAMONTE"},
+      "geometry":{"type":"LineString","coordinates":[[-44.939214,-22.294846],[-44.920000,-22.290000],[-44.900000,-22.285000],[-44.872640,-22.284220]]}
     },
     {
       "type": "Feature",
-      "properties": { "origem": "SOLEDADE", "destino": "DETEL" },
-      "geometry": { "type": "LineString", "coordinates": [[-45.0455,-22.0589],[-45.0588,-22.0153]] }
+      "properties": {"origem":"SOLEDADE","destino":"DETEL"},
+      "geometry":{"type":"LineString","coordinates":[[-45.045552,-22.058912],[-45.050000,-22.040000],[-45.055000,-22.025000],[-45.058821,-22.015346]]}
     },
     {
       "type": "Feature",
-      "properties": { "origem": "PASSA QUATRO", "destino": "CRUZEIRO" },
-      "geometry": { "type": "LineString", "coordinates": [[-44.9665,-22.3882],[-45.0169,-22.5134]] }
+      "properties": {"origem":"PASSA QUATRO","destino":"CRUZEIRO"},
+      "geometry":{"type":"LineString","coordinates":[[-44.966513,-22.388209],[-44.990000,-22.430000],[-45.005000,-22.470000],[-45.016982,-22.513432]]}
     },
     {
       "type": "Feature",
-      "properties": { "origem": "SAO LOURENCO", "destino": "CRV" },
-      "geometry": { "type": "LineString", "coordinates": [[-45.0533,-22.1164],[-45.0855,-21.8809]] }
+      "properties": {"origem":"SAO LOURENCO","destino":"CRV"},
+      "geometry":{"type":"LineString","coordinates":[[-45.053350,-22.116496],[-45.060000,-22.050000],[-45.070000,-21.980000],[-45.085504,-21.880907]]}
     }
   ]
 }
