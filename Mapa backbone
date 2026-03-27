@@ -1003,7 +1003,7 @@
         "extrude": 0,
         "visibility": -1,
         "Descri____o": "BACKBONE JARDIM  ITANHANDU / ITAMONTE",
-        "origem": "JARDIM  ITANHANDU",
+        "origem": "ITANHANDU",
         "destino": "ITAMONTE"
       },
       "geometry": {
@@ -1472,7 +1472,7 @@
         "extrude": 0,
         "visibility": -1,
         "Descri____o": "ESTIVA BACKBONE SWAP ITANHANDU/ ITAMONTE",
-        "origem": "ESTIVA  SWAP ITANHANDU",
+        "origem": "ITANHANDU",
         "destino": "ITAMONTE"
       },
       "geometry": {
@@ -1825,8 +1825,8 @@
         "extrude": 0,
         "visibility": -1,
         "Descri____o": "BACKBONE CAXAMBU/ BAEPENDI",
-        "origem": "CAXAMBU",
-        "destino": "BAEPENDI"
+        "origem": "BAEPENDI",
+        "destino": "CAXAMBU"
       },
       "geometry": {
         "type": "LineString",
@@ -2093,7 +2093,9 @@
         "tessellate": -1,
         "extrude": 0,
         "visibility": -1,
-        "Descri____o": "BACKBONE BAEPENDI A CRUZILIA"
+        "Descri____o": "BACKBONE BAEPENDI A CRUZILIA",
+        "origem": "BAEPENDI",
+        "destino": "CRUZILIA"
       },
       "geometry": {
         "type": "LineString",
@@ -2908,7 +2910,7 @@
         "extrude": 0,
         "visibility": -1,
         "Descri____o": "BACKBONE SLÇ / SOLEDADE",
-        "origem": "SLÇ",
+        "origem": "SAO LOURENCO",
         "destino": "SOLEDADE"
       },
       "geometry": {
@@ -4536,7 +4538,9 @@
         "tessellate": -1,
         "extrude": 0,
         "visibility": -1,
-        "Descri____o": "BACKBONE DETEL A CONCEIÇÃO 1"
+        "Descri____o": "BACKBONE DETEL A CONCEIÇÃO 1",
+        "origem": "SOLEDADE",
+        "destino": "DETEL"
       },
       "geometry": {
         "type": "LineString",
@@ -5367,7 +5371,9 @@
         "tessellate": -1,
         "extrude": 0,
         "visibility": -1,
-        "Descri____o": "BACKBONE DETEL 1"
+        "Descri____o": "BACKBONE DETEL 1",
+        "origem": "SOLEDADE",
+        "destino": "DETEL"
       },
       "geometry": {
         "type": "LineString",
@@ -8882,7 +8888,9 @@
         "tessellate": -1,
         "extrude": 0,
         "visibility": -1,
-        "Descri____o": "BACKBONE SLÇ A POUSO ALTO"
+        "Descri____o": "BACKBONE SLÇ A POUSO ALTO",
+        "origem": "SAO LOURENCO",
+        "destino": "POUSO ALTO"
       },
       "geometry": {
         "type": "LineString",
@@ -9406,8 +9414,8 @@
         "extrude": 0,
         "visibility": -1,
         "Descri____o": "BACKBONE SLÇ/DOM VIÇOSO",
-        "origem": "SLÇ",
-        "destino": "DOM VIÇOSO"
+        "origem": "SAO LOURENCO",
+        "destino": "CRV"
       },
       "geometry": {
         "type": "LineString",
